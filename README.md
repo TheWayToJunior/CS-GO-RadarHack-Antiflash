@@ -13,7 +13,7 @@
       <br>
       <img src="FirstScreen.png" width="600px" height="350px"/> 
       <br>
-  <br
+  <br>
   <li>Cheat activated have a nice game 💻</li>
   </ol>
 </h3>
